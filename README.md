@@ -1,1 +1,1 @@
-This is the description of repo
+GitHubCloneProject - Merge Conflict Task
