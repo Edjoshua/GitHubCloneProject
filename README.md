@@ -15,10 +15,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Joshua Edogbo</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>Joshua Edogbo</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>2</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>8</o:TotalTime>
   <o:Created>2025-09-03T11:12:00Z</o:Created>
-  <o:LastSaved>2025-09-03T11:14:00Z</o:LastSaved>
+  <o:LastSaved>2025-09-03T11:22:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>13</o:Words>
   <o:Characters>98</o:Characters>
@@ -37,7 +37,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <w:WordDocument>
   <w:View>Print</w:View>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves/>
   <w:TrackFormatting/>
   <w:ValidateAgainstSchemas/>
@@ -52,6 +51,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:BreakWrappedTables/>
    <w:SplitPgBreakAndParaMark/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -727,15 +727,16 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span class=SpellE><span style='mso-fareast-font-family:
-"Times New Roman"'>GitHubCloneProject</span></span><span style='mso-fareast-font-family:
-"Times New Roman"'> - Merge Conflict Task<o:p></o:p></span></p>
+<p class=MsoNormal><span class=SpellE><span lang=en-NG style='mso-fareast-font-family:
+"Times New Roman";mso-ansi-language:#0C00'>GitHubCloneProject</span></span><span
+lang=en-NG style='mso-fareast-font-family:"Times New Roman";mso-ansi-language:
+#0C00'> - Merge Conflict Task<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Modification
-in main branch.<o:p></o:p></span></p>
+<p class=MsoNormal><span lang=en-NG style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:#0C00'>Modification in main branch.<o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Modification
-in feature-greeting branch.<o:p></o:p></span></p>
+<p class=MsoNormal><span lang=en-NG style='mso-fareast-font-family:"Times New Roman";
+mso-ansi-language:#0C00'>Modification in feature-greeting branch.</span></p>
 
 </div>
 
